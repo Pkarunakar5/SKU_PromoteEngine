@@ -1,0 +1,4 @@
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PriceModel\bin\Debug\SKU.PriceModel.dll
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PriceModel\bin\Debug\SKU.PriceModel.pdb
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PriceModel\obj\Debug\SKU.PriceModel.dll
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PriceModel\obj\Debug\SKU.PriceModel.pdb

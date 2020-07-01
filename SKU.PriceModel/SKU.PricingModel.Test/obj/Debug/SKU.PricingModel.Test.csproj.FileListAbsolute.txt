@@ -1,0 +1,7 @@
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PricingModel.Test\bin\Debug\SKU.PricingModel.Test.dll
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PricingModel.Test\bin\Debug\SKU.PricingModel.Test.pdb
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PricingModel.Test\bin\Debug\SKU.PriceModel.dll
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PricingModel.Test\bin\Debug\SKU.PriceModel.pdb
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PricingModel.Test\obj\Debug\SKU.PricingModel.Test.csprojResolveAssemblyReference.cache
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PricingModel.Test\obj\Debug\SKU.PricingModel.Test.dll
+E:\Collabera_Measrk\SKU.PriceModel\SKU.PricingModel.Test\obj\Debug\SKU.PricingModel.Test.pdb
